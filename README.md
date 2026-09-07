@@ -21,7 +21,7 @@
 - 🔭 Currently seeking a **fresher-level VLSI Physical Design** role
 - 🌱 Hands-on with the complete RTL-to-GDSII flow — floorplanning, powerplanning, placement, CTS, routing, and timing closure
 -  Open to VLSI Physical Design opportunities
-- 📄 [Resume](https://drive.google.com/file/d/1yvmnRGSmtcXN3ikp2qRKqRb0vDez0q8q/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/13EhP0uCQe35iO3prAGO1bcwvQFnW8Z-M/view?usp=sharing)
 
 ---
 
